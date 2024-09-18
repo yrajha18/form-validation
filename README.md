@@ -1,3 +1,2 @@
 Form Validation Project
-This project represents my second web development endeavor, centered on implementing a comprehensive form validation system. Developed using HTML, CSS, and JavaScript, the project features a fully functional validation mechanism designed to enhance user experience and ensure data integrity.
-
+This project is my second web development initiative, focusing on building an advanced form validation system. Utilizing HTML for structure, CSS for design, and JavaScript for functionality, it aims to improve user experience by ensuring the accuracy and completeness of submitted data. The validation system checks for various input types, providing immediate feedback and preventing incorrect submissions. This project showcases my growing proficiency in web development technologies and highlights the importance of data integrity and user-friendly interfaces in modern web applications.
